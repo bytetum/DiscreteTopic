@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellationFramework", "CancellationFramework\CancellationFramework.csproj", "{DC509333-C9BE-47A3-9BFF-FAF10276F8D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDiagram", "ClassDiagram\ClassDiagram.csproj", "{DD9A9E7C-B5B1-4F6F-9F21-BBFD8D4ADB6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC509333-C9BE-47A3-9BFF-FAF10276F8D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC509333-C9BE-47A3-9BFF-FAF10276F8D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC509333-C9BE-47A3-9BFF-FAF10276F8D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC509333-C9BE-47A3-9BFF-FAF10276F8D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9A9E7C-B5B1-4F6F-9F21-BBFD8D4ADB6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9A9E7C-B5B1-4F6F-9F21-BBFD8D4ADB6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9A9E7C-B5B1-4F6F-9F21-BBFD8D4ADB6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9A9E7C-B5B1-4F6F-9F21-BBFD8D4ADB6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

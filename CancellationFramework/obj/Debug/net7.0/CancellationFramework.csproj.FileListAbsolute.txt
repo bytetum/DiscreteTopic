@@ -1,0 +1,15 @@
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\bin\Debug\net7.0\CancellationFramework.exe
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\bin\Debug\net7.0\CancellationFramework.deps.json
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\bin\Debug\net7.0\CancellationFramework.runtimeconfig.json
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\bin\Debug\net7.0\CancellationFramework.dll
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\bin\Debug\net7.0\CancellationFramework.pdb
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\obj\Debug\net7.0\CancellationFramework.csproj.AssemblyReference.cache
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\obj\Debug\net7.0\CancellationFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\obj\Debug\net7.0\CancellationFramework.AssemblyInfoInputs.cache
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\obj\Debug\net7.0\CancellationFramework.AssemblyInfo.cs
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\obj\Debug\net7.0\CancellationFramework.csproj.CoreCompileInputs.cache
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\obj\Debug\net7.0\CancellationFramework.dll
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\obj\Debug\net7.0\refint\CancellationFramework.dll
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\obj\Debug\net7.0\CancellationFramework.pdb
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\obj\Debug\net7.0\CancellationFramework.genruntimeconfig.cache
+C:\Users\hxt\source\repos\Playground\DiscreteTopic\CancellationFramework\obj\Debug\net7.0\ref\CancellationFramework.dll
